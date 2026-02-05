@@ -1,0 +1,224 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1D305E",
+            "lang-select-color": "#222829",
+            "bg-light": "#1D305E",
+            "welcome-bonus-bg": "#e4e4e4",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#0A1942",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#0A1942",
+            "yellow-button": "#CF7F29",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#e4e4e4",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#e4e4e4",
+            "faq-label": "#e4e4e4",
+            "bg-footer": "#1D305E",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2613"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2614",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Diamondbet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2615",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Diamondbet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Diamondbet",
+                    "title": "Diamondbet — Online Casino & Sports Betting | 100% AU",
+                    "description": "Play at Diamondbet, Australia's trusted online casino. Enjoy 2000+ pokies, live dealer games, sports betting, and exclusive bonuses. Join now!\n",
+                    "canonical": "diamondbet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2616",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "diamondbet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2617"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Betting Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2618",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2619",
+                    "mobileImageSizeModifier": -10,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "We're a 100% Australian-owned platform combining world-class casino gaming with premium sports betting. Our commitment to fair play, instant payouts, and 24\/7 local support makes us the trusted choice for Aussie players.\n",
+                    "items": [
+                        "Licensed and regulated with certified RNG for all casino games",
+                        "2000+ pokies from NetEnt, Microgaming, Pragmatic Play, and NoLimit City",
+                        "Live casino tables with professional dealers streaming 24\/7",
+                        "Sports betting on AFL, NRL, NBA, cricket, horse racing with live streaming",
+                        "Instant withdrawals to Australian bank accounts and e-wallets",
+                        "Dedicated Aussie support team available around the clock in English"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Australian players who trust us for secure gaming and competitive odds. Our platform combines cutting-edge technology with authentic casino entertainment tailored for the Australian market.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Diamondbet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2620",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Diamondbet App",
+                    "mobileGooglePlayImageTitle": "Diamondbet App",
+                    "mobileIosImageTitle": "Diamondbet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Diamondbet Casino",
+                        "description1": "We are Australia's premier gaming platform combining casino entertainment with sports betting. Our Victorian bookmakers bring decades of racing expertise to deliver authentic Aussie gaming with premium providers and cutting-edge technology.\n",
+                        "items": [
+                            "Launched comprehensive online casino with 2000+ pokies and table games",
+                            "Introduced live dealer studios with Australian-friendly gaming hours",
+                            "Expanded sports betting to include AFL, NRL, cricket, and international leagues",
+                            "Added mobile app with seamless casino and sports betting integration"
+                        ],
+                        "description2": "We operate under strict Australian gaming regulations with certified fairness testing. Our platform uses SSL encryption to protect your data. Every game outcome is verified by independent auditors ensuring complete transparency and fair play.\nWe continue expanding our gaming library and sports markets for Australian players. Our commitment to responsible gambling remains paramount. Discover why we're Australia's fastest-growing integrated gaming destination with unmatched variety.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2621",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Casino Games Guide",
+                        "description": "<h2>Explore Our Extensive Casino Gaming Collection<\/h2>\n\n<p>We pride ourselves on offering one of Australia's most comprehensive online casino libraries, featuring over 2000 games from the world's leading software providers. Our collection spans everything from classic pokies and progressive jackpots to immersive live dealer tables and unique game show experiences. Every game in our lobby has been carefully selected to meet the highest standards of quality, fairness, and entertainment value, ensuring you always have access to the best gaming experiences available in the Australian market.<\/p>\n\n<p>Our platform combines traditional casino favourites with innovative new releases, giving you the perfect blend of nostalgia and cutting-edge gaming technology. Whether you prefer spinning the reels on vibrant video slots, testing your strategy at blackjack tables, or experiencing the thrill of live roulette with professional dealers, we have something to match every playing style and budget. Our games are powered by certified random number generators and undergo regular independent audits to guarantee fair outcomes on every spin, deal, and roll.<\/p>\n\n<h3>Premium Pokies Selection<\/h3>\n\n<p>Our pokies library features over 1500 titles from industry giants like NetEnt, Microgaming, Pragmatic Play, NoLimit City, and Play'n GO. We offer classic three-reel fruit machines for traditionalists, modern five-reel video slots with immersive storylines and bonus features, and progressive jackpot games where single spins can deliver life-changing wins. Popular Australian favourites include Starburst, Book of Dead, Gates of Olympus, and Big Bass Bonanza, alongside exclusive releases you won't find at other operators.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways slots:<\/strong> Featuring up to 117,649 ways to win with cascading reels, multipliers, and unlimited win potential on titles like Bonanza, Extra Chilli, and Buffalo King.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive jackpot pokies:<\/strong> Including Mega Moolah, Divine Fortune, and Hall of Gods where jackpots regularly exceed millions of dollars with network-wide prize pools.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Australian-themed games:<\/strong> Celebrating local culture with pokies featuring koalas, kangaroos, and outback adventures designed specifically for Aussie players.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Buy feature slots:<\/strong> Allowing instant access to bonus rounds and free spins without waiting for trigger symbols to land organically on the reels.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>High volatility titles:<\/strong> For players seeking bigger wins with games offering returns up to 50,000x your stake on single spins during bonus features.\n  <\/li>\n<\/ul>\n\n<h3>Live Dealer Casino Experience<\/h3>\n\n<p>We partner with Evolution Gaming, Pragmatic Play Live, and Ezugi to deliver authentic casino experiences streamed in HD from professional studios. Our live tables operate around the clock with dealers speaking English and catering specifically to Australian time zones. You can interact with dealers via live chat, watch multiple camera angles, and enjoy the social atmosphere of real casino gaming from your home or mobile device.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live roulette tables:<\/strong> Including European, American, French, Lightning Roulette, and Speed Roulette with betting limits from $1 to $5000 per spin.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack variations:<\/strong> Featuring classic rules, unlimited seat tables, Free Bet Blackjack, and VIP tables with side bets like Perfect Pairs and 21+3.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat tables:<\/strong> Offering standard, speed, and no-commission versions with squeeze feature for enhanced suspense and authentic gameplay.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live poker games:<\/strong> Including Three Card Poker, Caribbean Stud, Texas Hold'em Bonus, and Ultimate Texas Hold'em with progressive jackpots.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Game show studios:<\/strong> Featuring Crazy Time, Monopoly Live, Mega Ball, and Dream Catcher combining entertainment with gambling excitement.\n  <\/li>\n<\/ul>\n\n<h3>Classic Table Games Collection<\/h3>\n\n<p>Our digital table games library provides the perfect alternative for players who prefer automated gameplay without live dealers. These RNG-based games offer faster action, lower minimum bets, and the convenience of playing at your own pace without waiting for other players. We feature multiple variants of every classic casino game with different rule sets, side bets, and visual themes to keep gameplay fresh and exciting across hundreds of sessions.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Roulette games:<\/strong> European, American, French, and innovative variants like Multi-Wheel Roulette where you can play up to eight wheels simultaneously.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack titles:<\/strong> Classic, Atlantic City, Vegas Strip, European, and Pontoon with perfect strategy charts and adjustable game speeds.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat variations:<\/strong> Standard, Mini Baccarat, and Punto Banco with detailed statistics tracking and betting pattern displays for strategy players.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Video poker games:<\/strong> Jacks or Better, Deuces Wild, Joker Poker, and multi-hand variants with optimal strategy guides for maximum return.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Specialty games:<\/strong> Craps, Sic Bo, Dragon Tiger, and Teen Patti offering diverse gameplay beyond traditional card and wheel games.\n  <\/li>\n<\/ul>\n\n<h3>Betting Limits and Game Stakes<\/h3>\n\n<p>We accommodate players of all experience levels and bankroll sizes with flexible betting options across our entire gaming portfolio. Whether you're a casual player enjoying low-stakes entertainment or a high roller seeking premium VIP action, our games offer betting ranges designed to match your budget and playing style. Below you'll find typical stake ranges for our most popular game categories, though individual titles may vary.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #c98e26;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #152642;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Pokies<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$200<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b1423;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #152642;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$2,500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b1423;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #152642;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Table Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b1423;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Video Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$125<\/td>\n    <\/tr>\n    <tr style=\"background-color: #152642;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$50<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0b1423;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Game Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">$1,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Mobile Casino Gaming<\/h3>\n\n<p>Our mobile platform delivers the complete casino experience optimized for iOS and Android devices without requiring downloads. Access our full game library directly through your mobile browser with responsive design that adapts perfectly to smartphones and tablets of all sizes. Games load quickly even on 4G connections, feature touch-optimized controls, and support both portrait and landscape orientations for comfortable gameplay anywhere you go.<\/p>\n\n<p>We've ensured that popular pokies, live dealer tables, and table games perform flawlessly on mobile with the same high-quality graphics, smooth animations, and reliable performance you expect from desktop play. Your account, balance, bonuses, and gaming history sync seamlessly across devices, allowing you to start sessions on your computer and continue on your phone without interruption. Mobile players enjoy identical betting limits, game features, and promotional offers with no restrictions or compromises.<\/p>\n\n<h3>Sports Betting Integration<\/h3>\n\n<p>Beyond our casino offerings, we provide comprehensive sports betting covering Australian favourites and international competitions. Bet on AFL, NRL, cricket, horse racing, greyhound racing, NBA, NFL, soccer, tennis, and dozens of other sports with competitive odds updated in real-time. Our sportsbook features live streaming for selected racing events, same-game multi options, and cash-out functionality allowing you to secure profits or minimize losses before events conclude.<\/p>\n\n<p>We offer extensive pre-match betting markets alongside in-play wagering where you can place bets while watching live action unfold. Our racing integration includes form guides, track conditions, jockey statistics, and expert tips to inform your betting decisions. Switching between casino games and sports betting happens instantly within the same account, making us your complete entertainment destination for all forms of online gambling under one trusted Australian brand.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & Responsible Gaming",
+                        "description": "<h2>Secure Banking Methods for Australian Players<\/h2>\n\n<p>We understand that convenient, secure, and fast banking is essential for an exceptional gaming experience. That's why we've partnered with Australia's most trusted payment providers to offer diverse deposit and withdrawal options tailored specifically for Aussie players. Our banking infrastructure uses bank-level encryption technology to protect every transaction, ensuring your financial information remains completely secure throughout the payment process. We support Australian dollars as our primary currency, eliminating currency conversion fees and making it easy to manage your gaming budget.<\/p>\n\n<p>Our deposit methods process instantly, allowing you to fund your account and start playing within seconds of confirming your transaction. We accept major credit and debit cards including Visa and Mastercard, popular e-wallets like PayPal, Skrill, and Neteller, and bank transfer options for players who prefer direct banking methods. Minimum deposits start from just $10, making our platform accessible to casual players, while our flexible limits accommodate high rollers seeking substantial gaming bankrolls with deposits up to $10,000 per transaction.<\/p>\n\n<h3>Fast Withdrawal Processing<\/h3>\n\n<p>We pride ourselves on industry-leading withdrawal speeds that get your winnings back to you quickly and reliably. Our finance team processes withdrawal requests within 24 hours on business days, with e-wallet withdrawals often completing within hours of approval. Bank transfers typically arrive in your Australian account within 1-3 business days depending on your financial institution, while card withdrawals process within 3-5 business days following standard banking procedures.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>E-wallet withdrawals:<\/strong> PayPal, Skrill, and Neteller withdrawals process within 24 hours with funds typically available in your e-wallet account same day after approval.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank transfers:<\/strong> Direct transfers to Australian bank accounts complete within 1-3 business days with no intermediary fees charged by our platform.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Card withdrawals:<\/strong> Visa and Mastercard withdrawals return funds to your original deposit card within 3-5 business days following verification procedures.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Minimum withdrawal:<\/strong> We maintain a low $20 minimum withdrawal threshold, ensuring even small wins can be cashed out without waiting to accumulate larger balances.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Verification process:<\/strong> First-time withdrawals require identity verification using photo ID and proof of address to comply with Australian anti-money laundering regulations.\n  <\/li>\n<\/ul>\n\n<h3>Welcome Bonuses and Promotions<\/h3>\n\n<p>We reward new players with generous welcome packages designed to boost your initial gaming experience and extend your playtime across our casino and sportsbook. Our welcome bonus provides matched deposit bonuses up to $1000 plus free spins on selected pokies, giving you extra value from your first deposits. These bonuses come with fair and transparent wagering requirements clearly explained in our terms and conditions, ensuring you understand exactly what's needed to convert bonus funds into withdrawable cash.<\/p>\n\n<p>Beyond the welcome offer, we run ongoing promotions exclusively for existing players including reload bonuses, cashback offers, free spin campaigns, and special event promotions tied to major sporting occasions and holiday celebrations. Our VIP loyalty program rewards regular play with points that convert into bonus credits, exclusive tournament invitations, personalized account management, and faster withdrawal processing. We also offer sports betting bonuses including enhanced odds, free bets, and multi-bet insurance protecting your accumulator wagers.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Matched deposit bonuses:<\/strong> Receive percentage matches on your deposits up to specified amounts, typically ranging from 50% to 200% depending on the promotion.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Free spins offers:<\/strong> Enjoy complimentary spins on popular pokies without risking your own money, with winnings subject to standard wagering requirements.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cashback promotions:<\/strong> Get a percentage of your losses returned as bonus funds, typically calculated weekly or monthly to cushion downswings.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Tournament competitions:<\/strong> Compete against other players in pokies tournaments with guaranteed prize pools and leaderboard rewards for top performers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Sports betting bonuses:<\/strong> Claim free bets, odds boosts, and bet insurance on selected sporting events with simple opt-in requirements and clear terms.\n  <\/li>\n<\/ul>\n\n<h3>Responsible Gambling Commitment<\/h3>\n\n<p>We take our responsibility to promote safe gambling seriously and provide comprehensive tools to help you maintain control over your gaming activities. Our platform includes customizable limits allowing you to set daily, weekly, or monthly restrictions on deposits, losses, and session durations. These limits can be adjusted downward immediately or increased after a cooling-off period, ensuring you have time to reconsider before expanding your gambling budget beyond previously set boundaries.<\/p>\n\n<p>Our self-exclusion features allow you to temporarily suspend or permanently close your account if you feel your gambling is becoming problematic. We partner with Australian gambling support organizations including Gambling Help Online, providing direct links to professional counseling services and resources for players who need assistance. Our customer support team receives training in identifying problem gambling signs and can direct players toward appropriate support channels with discretion and respect.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Deposit limits:<\/strong> Set maximum amounts you can deposit over daily, weekly, or monthly periods to control your gambling spending effectively.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loss limits:<\/strong> Define thresholds for acceptable losses within specific timeframes, automatically pausing play when limits are reached.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Session reminders:<\/strong> Receive notifications after specified playing durations to help maintain awareness of time spent gambling.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Reality checks:<\/strong> Get periodic pop-up messages displaying your current session duration and net win\/loss to promote informed decision-making.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Self-exclusion options:<\/strong> Temporarily block access to your account for periods ranging from 24 hours to six months, or request permanent exclusion.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Support resources:<\/strong> Access direct links to Gambling Help Online, counseling services, and educational materials about responsible gambling practices.\n  <\/li>\n<\/ul>\n\n<h3>Customer Support Services<\/h3>\n\n<p>Our dedicated Australian support team operates 24 hours a day, seven days a week to assist with any questions, concerns, or technical issues you might encounter. We offer multiple contact channels including live chat for instant responses, email support for detailed inquiries, and a comprehensive FAQ section covering common questions about accounts, bonuses, games, and banking. Our support agents are knowledgeable about all aspects of our platform and receive ongoing training to provide accurate, helpful, and friendly assistance.<\/p>\n\n<p>We prioritize quick response times with live chat inquiries typically answered within 60 seconds during peak hours and email responses delivered within 4 hours for most queries. Our support team speaks fluent English and understands the unique needs and preferences of Australian players, including local payment methods, sports betting markets, and cultural considerations. Whether you need help with account verification, bonus terms clarification, technical troubleshooting, or responsible gambling tools, our team is always ready to assist with professionalism and discretion.<\/p>\n\n<h3>Security and Fair Play Standards<\/h3>\n\n<p>We implement cutting-edge security measures to protect your personal information, financial transactions, and gaming activity from unauthorized access or fraud. Our platform uses 256-bit SSL encryption technology, the same security standard employed by major banks and financial institutions worldwide. All sensitive data transmissions between your device and our servers are encrypted, making it virtually impossible for third parties to intercept or misuse your information during communication.<\/p>\n\n<p>Every game in our casino undergoes rigorous testing by independent auditing firms to verify fairness and random outcomes. Our random number generators are certified to industry standards, ensuring that game results cannot be predicted or manipulated by players or our platform. We publish regular audit reports demonstrating our commitment to transparent, fair gaming where every player has equal opportunities to win based purely on chance and skill rather than any form of bias or predetermined outcomes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>SSL encryption:<\/strong> Military-grade 256-bit encryption protects all data transmissions including login credentials, banking details, and personal information.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>RNG certification:<\/strong> Independent testing laboratories verify our random number generators meet international standards for fairness and unpredictability.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Fraud prevention:<\/strong> Advanced monitoring systems detect suspicious account activity and prevent unauthorized access through multi-factor authentication options.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Data protection:<\/strong> We comply with Australian privacy laws and never share your personal information with third parties without explicit consent.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Regular audits:<\/strong> Quarterly reviews by external auditors ensure our games, security protocols, and business practices maintain the highest industry standards.\n  <\/li>\n<\/ul>\n\n<h3>Australian-Focused Gaming Experience<\/h3>\n\n<p>As a proudly Australian platform, we've designed every aspect of our service with local players in mind. We operate in Australian dollars to eliminate currency conversion hassles, support popular local payment methods including POLi and bank transfers to major Australian banks, and schedule promotions around Australian time zones and sporting events. Our customer support operates during hours convenient for Australian players across all time zones from Perth to Sydney, ensuring help is always available when you need it most.<\/p>\n\n<p>We feature extensive coverage of Australian sports including AFL, NRL, cricket, horse racing, and greyhound racing with competitive odds and specialized markets tailored for local betting preferences. Our racing section provides comprehensive form guides, track conditions, and expert analysis for metropolitan and regional meetings across Australia. We celebrate Australian sporting achievements with special promotions during major events like the Melbourne Cup, State of Origin, and AFL Grand Final, making us the truly local choice for integrated casino and sports betting entertainment.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I create an account and start playing?",
+                            "answer": "Creating your account takes just minutes. Click the 'Join Now' button, complete the registration form with your details, verify your email address, and make your first deposit using any of our supported payment methods. You'll be playing within minutes of completing these simple steps.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for deposits and withdrawals?",
+                            "answer": "We accept Visa, Mastercard, PayPal, Skrill, Neteller, bank transfers, and POLi for Australian bank accounts. Deposits process instantly with minimums from $10. Withdrawals are processed within 24 hours to e-wallets and 1-3 business days for bank transfers. All transactions are secure and encrypted.\n"
+                        },
+                        {
+                            "title": "What is your welcome bonus and how do I claim it?",
+                            "answer": "New players receive a welcome package up to $1000 plus free spins on selected pokies. The bonus is automatically credited when you make your first deposit of at least $20. Standard wagering requirements apply. Check our promotions page for current offers and complete terms and conditions.\n"
+                        },
+                        {
+                            "title": "Are your casino games fair and regularly tested?",
+                            "answer": "Yes, absolutely. All our games use certified random number generators tested by independent auditing firms. We operate under strict Australian gaming regulations with regular compliance checks. Every game outcome is completely random and cannot be predicted or manipulated, ensuring fair play for all players.\n"
+                        },
+                        {
+                            "title": "Can I play on my mobile phone or tablet?",
+                            "answer": "Our platform is fully optimized for mobile devices including iOS and Android smartphones and tablets. Access our complete game library through your mobile browser without downloading apps. Games feature touch controls, responsive design, and seamless account synchronization across all devices.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to process?",
+                            "answer": "We process withdrawal requests within 24 hours on business days. E-wallet withdrawals typically complete within hours of approval. Bank transfers arrive in 1-3 business days, while card withdrawals take 3-5 business days. First-time withdrawals require identity verification for security purposes.\n"
+                        },
+                        {
+                            "title": "Do you offer sports betting alongside casino games?",
+                            "answer": "Yes, we provide comprehensive sports betting covering AFL, NRL, cricket, horse racing, greyhound racing, and international sports. Enjoy live streaming for selected races, same-game multis, and cash-out options. Switch seamlessly between casino games and sports betting using the same account and balance.\n"
+                        },
+                        {
+                            "title": "What responsible gambling tools are available?",
+                            "answer": "We offer deposit limits, loss limits, session reminders, reality checks, and self-exclusion options ranging from 24 hours to permanent closure. Our support team can direct you to Gambling Help Online and professional counseling services. Set limits anytime through your account settings.\n"
+                        },
+                        {
+                            "title": "Is customer support available 24\/7 for Australian players?",
+                            "answer": "Yes, our Australian support team operates around the clock every day of the year. Contact us via live chat for instant responses, email for detailed inquiries, or browse our comprehensive FAQ section. Our agents are knowledgeable, friendly, and ready to assist with any questions or concerns.\n"
+                        },
+                        {
+                            "title": "What are the minimum and maximum betting limits?",
+                            "answer": "Betting limits vary by game type. Pokies start from $0.10 per spin up to $200. Live roulette ranges from $1 to $5,000 per spin. Live blackjack offers $5 to $2,500 limits. Video poker begins at $0.25. Check individual games for specific limits matching your playing style and budget.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

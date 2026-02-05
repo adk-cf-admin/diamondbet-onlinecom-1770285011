@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://diamondbet-online.com/
+Sitemap: https://diamondbet-online.com/sitemap.xml
